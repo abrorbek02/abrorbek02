@@ -1,6 +1,6 @@
 👋 Hi, I'm Abrorbek \
 💫 I like creating `Website` 
-💻 I know 
+💻 I know ['Html_CSS_Bootstrap_JS_REACT']
 👨‍💻 I’m looking to collaborate on projects \
 💬 I'm 20 years old developer from Uzbekistan/Khorezm \
 🌐 My web-site  [my-website](http://my-website-02.netlify.app) \
